@@ -5,7 +5,7 @@ fitur yang ada di dalam nya ialah:
 1. add post , yaitu menambahkan postingan yg sudah ada
 2. login, yaitu untuk login admin agar bisa membuat postingan 
 3. register, adalah untuk registerasi admin 
-4. view/edit post, yaitu untuk postingan yg sudah ada jika ingin di lihat atau di edit(yg ini masih ada error rud , jgn lo presentasiin, bilang lagi ada kendala , nanti kita perbaiki)
+4. view/edit post, yaitu untuk postingan yg sudah ada jika ingin di lihat atau di edit
 5. delete post , yaitu menghapus postingan yg sudah ada
 6. membuat cookies, yaitu agar admin bisa tetap stay login
 7. home , yaitu halaman utama dari program website ini
